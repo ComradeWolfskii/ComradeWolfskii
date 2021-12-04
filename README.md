@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ComradeWolfskii
-- 👀 I’m interested in ... video games and video making
+- 👀 I’m interested in ... video games, video making and bots
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... idk 
