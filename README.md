@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ComradeWolfskii
-- 👀 I’m interested in ... video games, video making and bots
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in ... artificial intelligence, robotics and engineering
+- 🌱 I’m currently learning ... javascript and python
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... idk 
+- 📫 How to reach me ... don't 
 
 <!---
 ComradeWolfskii/ComradeWolfskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
