@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... artificial intelligence, robotics and engineering
 - 🌱 I’m currently learning ... javascript and python
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... don't 
+- 📫 How to reach me ... comradewolfskii@gmail.com
 
 <!---
 ComradeWolfskii/ComradeWolfskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
