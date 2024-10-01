@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ComradeWolfskii
 - 👀 I’m interested in ... artificial intelligence, robotics and engineering
-- 🌱 I’m currently learning ... javascript and python
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... comradewolfskii@gmail.com
 
